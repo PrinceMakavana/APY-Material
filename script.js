@@ -1,5 +1,5 @@
         function adboxw160h300() {
-            document.getElementById("adboxw160h300").innerHTML += `<script type="text/javascript">
+            
     atOptions = {
         'key' : '746e9b24c993525308734307b10ac129',
         'format' : 'iframe',
@@ -8,7 +8,6 @@
         'params' : {}
     };
     document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://feignoccasionedmound.com/746e9b24c993525308734307b10ac129/invoke.js"></scr' + 'ipt>');
-    </script>
     `;
     };
     
